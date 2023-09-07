@@ -1466,9 +1466,9 @@ __p+='`),
                 e(B).attr("style", W ? "display: none !important;" : "")
             }
             function P() {
-                var W = e('<a class="w-webflow-badge"></a>')
-                  , H = e("<img>")
-                  , X = e("<img>")
+                var W = e('')
+                  , H = e("")
+                  , X = e("")
                 return W.append(H, X),
                 W[0]
             }
